@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Design pattern**
 
-- 📝 I regularly write articles on [https://medium.com/@esam.alsawah2000](https://medium.com/@esam.alsawah2000)
+- 📝 I regularly write articles on [https://medium.com/@esam.alsawah2000](medium.com)
 
 - 💬 Ask me about **React,Next js,Typescript**
 
 - 📫 How to reach me **esam.alsawah2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/196aUxkfKTP-mrH0VmkW9GESCjD9xBWKo/view?usp=share_link](https://drive.google.com/file/d/196aUxkfKTP-mrH0VmkW9GESCjD9xBWKo/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/196aUxkfKTP-mrH0VmkW9GESCjD9xBWKo/view?usp=share_link](My Resume)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
